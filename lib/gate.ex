@@ -1,0 +1,2 @@
+defmodule Gate do
+end
